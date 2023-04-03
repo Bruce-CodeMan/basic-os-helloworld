@@ -4,7 +4,6 @@
 [BITS 16]
 global _start
 _start:
-    xchg bx, bx
     ; 设置屏幕模式为文本模式，清除屏幕
     mov ax, 3
     int 0x10

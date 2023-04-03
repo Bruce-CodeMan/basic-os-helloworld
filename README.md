@@ -23,6 +23,13 @@ sudo make install (must root authentication)
 sudo apt-get install qemu
 ```
 
+
+## **Install nasm**
+
+```
+sudo apt-get install nasm
+```
+
 ## **How to run this project**
 
 ```

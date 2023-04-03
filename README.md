@@ -17,3 +17,8 @@ make -j4(-j followed by the number of CPUs to speed up compilation)
 sudo make install (must root authentication)
 ```
 
+## **Install qemu**
+
+```
+sudo apt-get install qemu
+```
